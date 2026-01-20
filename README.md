@@ -187,7 +187,8 @@ http://localhost:8501
 )
 
 ### 🔹 Input Specifications Section
-![Inputs](screenshots/screenshot-2.png)
+![Inputs](![Uploading ChatGPT Image Jan 20, 2026, 05_50_54 PM.png…]()
+)
 
 ### 🔹 Price Prediction Result
 ![Prediction Result](screenshots/screenshot-3.png)
