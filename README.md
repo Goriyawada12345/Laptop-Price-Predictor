@@ -187,11 +187,13 @@ http://localhost:8501
 )
 
 ### 🔹 Input Specifications Section
-(![Uploading ChatGPT Image Jan 20, 2026, 05_50_54 PM.png…]()
+(<img width="698" height="243" alt="3" src="https://github.com/user-attachments/assets/7c395fcb-0587-4ca1-a9e4-ba2ddd24ea73" />
+
 )
 
 ### 🔹 Price Prediction Result
-![Prediction Result](screenshots/screenshot-3.png)
+(<img width="698" height="243" alt="3" src="https://github.com/user-attachments/assets/a4a4c33c-78c3-433d-b1cd-37ce68d51830" />
+)
 
 ---
 
