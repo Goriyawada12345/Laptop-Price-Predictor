@@ -183,11 +183,11 @@ http://localhost:8501
 ## 📸 Screenshots
 
 ### 🔹 Laptop Price Predictor – Main Interface
-![Main UI](<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 05_50_54 PM" src="https://github.com/user-attachments/assets/68ffae74-46d4-431e-ba6c-51269414c2be" />
+(<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 05_50_54 PM" src="https://github.com/user-attachments/assets/68ffae74-46d4-431e-ba6c-51269414c2be" />
 )
 
 ### 🔹 Input Specifications Section
-![Inputs](![Uploading ChatGPT Image Jan 20, 2026, 05_50_54 PM.png…]()
+(![Uploading ChatGPT Image Jan 20, 2026, 05_50_54 PM.png…]()
 )
 
 ### 🔹 Price Prediction Result
