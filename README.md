@@ -187,7 +187,8 @@ http://localhost:8501
 )
 
 ### 🔹 Input Specifications Section
-(<img width="698" height="243" alt="3" src="https://github.com/user-attachments/assets/7c395fcb-0587-4ca1-a9e4-ba2ddd24ea73" />
+(<img width="697" height="237" alt="2" src="https://github.com/user-attachments/assets/bf57e874-5bcf-450f-867a-b3c8abdfe5c4" />
+
 
 )
 
